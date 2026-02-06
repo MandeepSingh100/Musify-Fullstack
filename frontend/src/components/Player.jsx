@@ -109,7 +109,6 @@ const Player = () => {
               onChange={handleProgressChange}
             />
 
-    =
             <div className="flex justify-center items-center gap-4 cursor-pointer">
               <span className="cursor-pointer" onClick={prevMusic}>
                 <GrChapterPrevious />
